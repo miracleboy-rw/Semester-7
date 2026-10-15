@@ -406,9 +406,3 @@ Baris yang tidak dikenal (misal pesan boot ESP32) diabaikan oleh parser Python.
 | Notch | Hardcode 50 Hz | `--mains 50\|60` |
 
 Perbaikan pada firmware: pelacakan envelope deteksi R-peak kini memakai **puncak sebenarnya** tiap detak (versi lama memakai nilai saat melewati ambang sehingga envelope bisa menyusut terus-menerus), dan BPM dinolkan setelah 4 detik tanpa detak agar tidak menampilkan angka basi.
-
----
-
-## Disclaimer
-
-Proyek hobi/edukasi. Bukan alat medis dan tidak dimaksudkan untuk diagnosis, pemantauan klinis, atau keputusan kesehatan. Estimasi SpO2 tidak dikalibrasi terhadap oksimeter referensi.
