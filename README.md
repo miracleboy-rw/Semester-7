@@ -4,7 +4,7 @@ Monitor tanda vital real-time dalam **satu alat**: EKG satu-lead (AD8232), oksim
 
 Proyek ini menggabungkan dua proyek sebelumnya (EKG Monitor berbasis Arduino dan Pulse Oximeter Monitor berbasis Arduino) menjadi satu perangkat dan satu aplikasi.
 
-> ⚠️ **Proyek hobi/edukasi, BUKAN alat medis.** Nilai SpO2 memakai rumus empiris tidak terkalibrasi (`110 − 25·R`). Jangan dipakai untuk keputusan kesehatan apa pun.
+> ⚠️ **Proyek ini sebatas PROTOIPE, BUKAN alat medis.** Nilai SpO2 memakai rumus empiris tidak terkalibrasi (`110 − 25·R`). Jangan dipakai untuk keputusan kesehatan apa pun.
 
 ---
 
